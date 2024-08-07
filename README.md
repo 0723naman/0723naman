@@ -1,4 +1,6 @@
-# 💫 About Me:
+#
+
+ 💫 About Me: https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png
 4th Year B.E Student | Aspiring Data Scientist | DevOps Enthusiast | C++, Python Programmer<br><br>- 🔭 I’m working as a student developer<br>- 📚 I'm currently learning Business Analysis and Machine Learning<br>- ⚡ In my free time I used to see insightful tech news
 
 
