@@ -1,5 +1,6 @@
 #
-< img src = "https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png"/>
+<img src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif" width="500">
+<br><br>
  💫 About Me: 
 4th Year B.E Student | Aspiring Data Scientist | DevOps Enthusiast | C++, Python Programmer<br><br>- 🔭 I’m working as a student developer<br>- 📚 I'm currently learning Business Analysis and Machine Learning<br>- ⚡ In my free time I used to see insightful tech news
 
