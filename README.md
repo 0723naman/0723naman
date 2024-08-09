@@ -7,7 +7,7 @@
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="500">
 
 
-## 🌐 Socials:
+ 🌐 Socials:
 <a href="https://www.linkedin.com/in/naman-raj-yadav/" target="_blank" rel="noopener noreferrer">
   <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="100" alt="Clickable Image">
 </a>
