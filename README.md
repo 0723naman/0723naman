@@ -1,13 +1,13 @@
 #
 <div id="header" align="center">
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9be4d344-6782-461a-b5a6-32a07bf7b34e" width="600" alt="animated hello">
+<img src="https://user-images.githubusercontent.com/74038190/226190894-18e959ba-d458-4a94-ac44-790190f2a947.gif" width="400">
 
  💫 About Me: 
 4th Year B.E Student | Aspiring Data Scientist | DevOps Enthusiast | C++, Python Programmer<br><br>- 🔭 I’m working as a student developer<br>- 📚 I'm currently learning Business Analysis and Machine Learning<br>- ⚡ In my free time I used to see insightful tech news<br>
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="500">
 
 
- 🌐 Socials:
+## 🌐 Socials:
 <a href="https://www.linkedin.com/in/naman-raj-yadav/" target="_blank" rel="noopener noreferrer">
   <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="100" alt="Clickable Image">
 </a>
