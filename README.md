@@ -1,5 +1,7 @@
 #
 <div style="display: flex; justify-content: center; align-items: center; height: 100vh;"><img src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif" width="500" alt="Centered Image"></div>
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="500">
+<br><br>
 
 <br><br>
  💫 About Me: 
