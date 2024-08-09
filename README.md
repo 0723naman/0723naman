@@ -1,8 +1,9 @@
-#
+##
 <div id="header" align="center">
 <img src="https://user-images.githubusercontent.com/74038190/214644145-264f4759-7633-441e-9d67-d8dda9d50d26.gif" width="200">
+ 
  💫 About Me: 
-4th Year B.E Student | Aspiring Data Scientist | DevOps Enthusiast | C++, Python Programmer<br><br>- 🔭 I’m working as a student developer<br>- 📚 I'm currently learning Business Analysis and Machine Learning<br>- ⚡ In my free time I used to see insightful tech news<br>
+Final Year B.E Student | Aspiring Data Scientist | DevOps Enthusiast | C++, Python Programmer<br><br>- 🔭 I’m working as a student developer<br>- 📚 I'm currently learning Business Analysis and Machine Learning<br>- ⚡ In my free time I used to see insightful tech news<br>
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="500">
 
 
